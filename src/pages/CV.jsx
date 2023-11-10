@@ -5,7 +5,6 @@ import Title from "../components/title/title";
 import Title2 from "../components/title/title2";
 import Content from "../components/content/content";
 import Content2 from "../components/content/content2";
-import Content3 from "../components/content/content3";
 
 const MyCv = () => {
   return (
